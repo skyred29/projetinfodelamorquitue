@@ -1,6 +1,6 @@
 from math import *
 from random import randint, random
-
+#trolol
 ##
 '''
 joueur 1 achète petites cases
